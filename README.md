@@ -7,7 +7,7 @@
 
 ##
 <div>
-  <span>
+  <span style= "display: flex; flex-direction: row;">
     <a href="https://github.com/Cabayer915"></a>
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=cabayer915&show_icons=true&theme=merko"/>
   </span>
