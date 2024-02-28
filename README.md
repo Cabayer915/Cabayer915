@@ -5,6 +5,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caua_renaitre/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:caua.bonfim@sptech.school)
 
+Olá, sou Cauã Ribeiro, um entusiasta apaixonado por design e tecnologia, dedicado a trazer soluções inovadoras para a vida através da programação e do design de interfaces. Minha jornada começou em 2020, quando iniciei no mundo da programação, querendo desenvolver junto de minha criatividade, ideação e designs sofisticados. Desde então, tenho trilhado esse caminho, explorando e desenvolvendo minhas habilidades. Atualmente curso Análise e Desenvolvimento de Sistemas e trabalho na plataforma Salesforce como desenvolvedor.
+
+Constantemente busco desafios que me permitam unir criatividade e funcionalidade. Minha experiência como desenvolvedor Salesforce me proporcionou um entendimento abrangente das necessidades do usuário final, criando soluções que não apenas impressionam visualmente, mas também entregam resultados precisos com as necessidades do usuário.
 ##
 <div>
   <span style= "display: flex; flex-direction: row;">
