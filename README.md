@@ -9,15 +9,15 @@ Olá, sou Cauã Ribeiro, um entusiasta apaixonado por design e tecnologia, dedic
 
 Constantemente busco desafios que me permitam unir criatividade e funcionalidade. Minha experiência como desenvolvedor Salesforce me proporcionou um entendimento abrangente das necessidades do usuário final, criando soluções que não apenas impressionam visualmente, mas também entregam resultados precisos com as necessidades do usuário.
 ##
-<div>
+<div display style= "display: flex; justify-content: space-between;">
   <span style= "display: flex;">
     <a href="https://github.com/Cabayer915"></a>
-    <img height="200px" width="450px" src="https://github-readme-stats.vercel.app/api?username=cabayer915&show_icons=true&theme=merko"/>
+    <img height="200px" width="45%" src="https://github-readme-stats.vercel.app/api?username=cabayer915&show_icons=true&theme=merko"/>
   </span>
 
   <span style= "display: flex;">
   <a href="https://github.com/Cabayer915">
-  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabayer915&layout=compact&langs_count=7&theme=merko" />
+  <img height="200px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabayer915&layout=compact&langs_count=7&theme=merko" />
  </span>
 </div>
 
