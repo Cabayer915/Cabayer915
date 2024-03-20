@@ -21,6 +21,8 @@ Constantemente busco desafios que me permitam unir criatividade e funcionalidade
  </span>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cabayer915&bg_color=0d1117&color=00ebe8&line=00ffff&point=1d8686&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Tecnologias que eu domino:
 ##
 <div style="display: inline_block">
