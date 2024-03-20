@@ -39,3 +39,6 @@ Constantemente busco desafios que me permitam unir criatividade e funcionalidade
 <img aling="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img aling="center" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 </div><br>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1100&height=60&lines=👋+Obrigado+por+sua+visita,+nos+vemos+em+breve!)
+##
