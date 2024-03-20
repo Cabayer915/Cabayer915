@@ -1,4 +1,4 @@
-### Olá, eu sou Cauã Ribeiro! 👋👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1100&height=60&lines=👋👋+Olá.+Meu+nome+é+Cauã,+e+eu+sou+um+Desenvolvedor+Front+End!)
 ##
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-ribeiro-5b4a29251/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauaribeirob915@gmail.com)
@@ -9,6 +9,7 @@ Olá, sou Cauã Ribeiro, um entusiasta apaixonado por design e tecnologia, dedic
 
 Constantemente busco desafios que me permitam unir criatividade e funcionalidade. Minha experiência como desenvolvedor Salesforce me proporcionou um entendimento abrangente das necessidades do usuário final, criando soluções que não apenas impressionam visualmente, mas também entregam resultados precisos com as necessidades do usuário.
 ##
+<div display style= "display: flex; justify-content: center;">
 <div display style= "display: flex; justify-content: space-between;">
   <span style= "display: flex;">
     <a href="https://github.com/Cabayer915"></a>
@@ -20,8 +21,11 @@ Constantemente busco desafios que me permitam unir criatividade e funcionalidade
   <img height="200px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabayer915&layout=compact&langs_count=7&theme=merko" />
  </span>
 </div>
+</div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cabayer915&bg_color=0d1117&color=00ebe8&line=00ffff&point=1d8686&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Trophies](https://github-profile-trophy.vercel.app/?username=cabayer915&row=1&column=6&theme=radical&margin-w=41&margin-h=41) 
+
+[![Cauã's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cabayer915&bg_color=0d1117&color=00ebe8&line=00ffff&point=1d8686&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Tecnologias que eu domino:
 ##
