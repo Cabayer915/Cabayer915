@@ -18,7 +18,7 @@ Constantemente busco desafios que me permitam unir criatividade e funcionalidade
 
   <span style= "display: flex;">
   <a href="https://github.com/Cabayer915">
-  <img height="200px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabayer915&layout=compact&langs_count=7&theme=merko" />
+  <img height="200px" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabayer915&layout=compact&langs_count=7&theme=merko" />
  </span>
 </div>
 </div>
